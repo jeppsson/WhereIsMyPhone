@@ -1,0 +1,11 @@
+Has your phone been stolen or lost?
+
+You can push this app to your lost phone from another phone or computer at https://play.google.com/store/apps/details?id=com.primavera.whereismyphone
+
+Then send a SMS with the text "whereismyphone" to your lost phone, which will not be seen on your lost phone. This will trigger this app to start sending SMSes with location information back to sender.
+
+In total 50 SMSes will be sent. Or send "whereismyphone stop" to make your lost phone stop sending location SMSes.
+
+Note that your lost phone needs to have location in Settings->Location & security enabled.
+
+The app will continue sending SMSes even after the phone has been restarted or with a new SIM.
